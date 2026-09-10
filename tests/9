@@ -1,0 +1,2 @@
+ls | grep c | sort >toto
+#Commande avec plusieurs pipe et une redirection

@@ -1,0 +1,2 @@
+ls | grep c
+#Commande avec un pipe

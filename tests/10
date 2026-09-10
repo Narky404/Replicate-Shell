@@ -1,0 +1,3 @@
+cat < toto | grep t | tail > tail 
+cat tail
+#Commande avec des redirections d'entreée et sortie et pipe
